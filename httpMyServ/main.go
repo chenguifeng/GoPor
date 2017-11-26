@@ -1,6 +1,6 @@
 // httpMyServ project main.go
 package main
-
+//练习
 import (
 	"database/sql"
 	"encoding/json"
